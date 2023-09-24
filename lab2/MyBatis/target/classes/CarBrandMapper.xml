@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="DAO.CarBrandDAO">
+
+    <insert id="save" parameterType="Entities.CarBrand">
+        INSERT INTO car_brand(ID, Brand, Date) VALUES (#{id},#{brand},#{date})
+    </insert>
+
+    <delete id="deleteById" parameterType="double">
+            DELETE * FROM car_brand WHERE ID = #{id}
+    </delete>
+
+    <delete id="deleteByEntity" parameterType="Entities.CarBrand">
+        DELETE * FROM car_brand WHERE ID = #{id}
+    </delete>
+
+    <update id="update" parameterType="Entities.CarBrand">
+        UPDATE car_brand SET Brand = #{brand}, Date = #{date} WHERE ID = #{id}
+    </update>
+
+    <delete id="deleteAll">
+        DELETE * FROM car_brand
+    </delete>
+
+    <select id="getById" parameterType="double" resultType="Entities.CarBrand">
+        SELECT * FROM car_brand WHERE ID = #{id}
+    </select>
+
+    <select id="getAll" resultType="Entities.CarBrand">
+        SELECT * FROM car_brand
+    </select>
+
+    <select id="getAllByCarBrandId" parameterType="String" resultType="Entities.CarModel">
+        SELECT * FROM car_model WHERE Brand = #{brand}
+    </select>
+
+</mapper>

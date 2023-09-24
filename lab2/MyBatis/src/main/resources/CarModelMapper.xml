@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="DAO.CarModelDAO">
+
+    <insert id="save" parameterType="Entities.CarModel">
+        INSERT INTO car_model(ID, ModelName, Lenght, Width, Body, Brand) VALUES (#{id},#{modelName},#{length}, #{width}, #{body}, #{brand})
+    </insert>
+
+    <delete id="deleteById" parameterType="double">
+        DELETE * FROM car_model WHERE ID = #{id}
+    </delete>
+
+    <delete id="deleteByEntity" parameterType="Entities.CarModel">
+        DELETE * FROM car_model WHERE ID = #{id}
+    </delete>
+
+    <delete id="deleteAll">
+        DELETE * FROM car_model
+    </delete>
+
+    <update id="update" parameterType="Entities.CarModel">
+        UPDATE car_model SET ModelName = #{modelName}, Lenght = #{length}, Width = #{width}, Body = #{body}, Brand = #{brand} WHERE ID = #{id}
+    </update>
+
+    <select id="getById" parameterType="double" resultType="Entities.CarModel">
+        SELECT * FROM car_model WHERE ID = #{id}
+    </select>
+
+    <select id="getAll" resultType="Entities.CarModel">
+        SELECT * FROM car_model
+    </select>
+
+</mapper>

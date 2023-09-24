@@ -1,0 +1,17 @@
+Hibernate\DAO\CarBrandDAO.class
+Hibernate\DAO\CarModelHibernate.class
+com\example\demo\DemoApplication.class
+Hibernate\Entities\Engine.class
+Controllers\CarModelController.class
+Hibernate\Hibernate\HibernateUtil.class
+Hibernate\DAO\CarBrandHibernate.class
+Services\CarBrandService.class
+Hibernate\Entities\CarModel.class
+Hibernate\Entities\BodyType.class
+Controllers\CarBrandController.class
+Services\CarModelService.class
+Hibernate\DAO\CarModelDAO.class
+Config\SwaggerConfig.class
+Hibernate\Entities\CarBrand.class
+Repositories\CarBrandRepository.class
+Repositories\CarModelRepository.class

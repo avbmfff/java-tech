@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="lab2-hibernate" />
+        <module name="JPAEntities" />
+        <module name="lab1-banks" />
+        <module name="lab-3 (1)" />
+        <module name="lab-4" />
+        <module name="Users" />
+        <module name="lab-3" />
+        <module name="CarModel" />
+        <module name="lab2-jdbc" />
+        <module name="lab4" />
+        <module name="lab2-mybatis" />
+        <module name="CarBrand" />
+        <module name="MyBatis" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="demo" target="17" />
+      <module name="Hibernate" target="19" />
+      <module name="jdbc" target="19" />
+      <module name="JDBC" target="19" />
+      <module name="lab-2" target="19" />
+      <module name="lab-3 (1)" target="17" />
+      <module name="lab-3 (2)" target="17" />
+      <module name="lab3" target="19" />
+      <module name="lab4" target="19" />
+      <module name="lab5" target="19" />
+      <module name="MyBatis" target="19" />
+      <module name="User" target="19" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="demo" options="-parameters" />
+      <module name="lab-3" options="-parameters" />
+      <module name="lab-3 (1)" options="-parameters" />
+      <module name="lab-3 (2)" options="-parameters" />
+      <module name="lab-4" options="-parameters" />
+      <module name="lab-6" options="" />
+    </option>
+  </component>
+</project>

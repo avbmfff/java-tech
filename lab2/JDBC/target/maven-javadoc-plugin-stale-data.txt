@@ -1,0 +1,66 @@
+@options
+@packages
+@argfile
+-classpath
+'C:/Users/annav/.m2/repository/org/projectlombok/lombok/1.18.26/lombok-1.18.26.jar;C:/Users/annav/.m2/repository/mysql/mysql-connector-java/8.0.30/mysql-connector-java-8.0.30.jar;C:/Users/annav/.m2/repository/com/google/protobuf/protobuf-java/3.19.4/protobuf-java-3.19.4.jar;C:/Users/annav/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.9.0/junit-jupiter-api-5.9.0.jar;C:/Users/annav/.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar;C:/Users/annav/.m2/repository/org/junit/platform/junit-platform-commons/1.9.0/junit-platform-commons-1.9.0.jar;C:/Users/annav/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'C:/TECH/lab2/JDBC/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/TECH/lab2/JDBC/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'lab2-jdbc 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'lab2-jdbc 1.0-SNAPSHOT API'
+DAO
+Entities
+Test
+'C:/TECH/lab2/JDBC/src/main/java/DAO/CarBrandDAO.java'
+'C:/TECH/lab2/JDBC/src/main/java/DAO/CarBrandJDBC.java'
+'C:/TECH/lab2/JDBC/src/main/java/DAO/CarModelDAO.java'
+'C:/TECH/lab2/JDBC/src/main/java/DAO/CarModelJDBC.java'
+'C:/TECH/lab2/JDBC/src/main/java/Entities/BodyType.java'
+'C:/TECH/lab2/JDBC/src/main/java/Entities/CarBrand.java'
+'C:/TECH/lab2/JDBC/src/main/java/Entities/CarModel.java'
+'C:/TECH/lab2/JDBC/src/main/java/Test/TestProgramJDBC.java'
+C:\Users\annav\.m2\repository\org\projectlombok\lombok\1.18.26\lombok-1.18.26.jar = 1677846501903
+C:\Users\annav\.m2\repository\mysql\mysql-connector-java\8.0.30\mysql-connector-java-8.0.30.jar = 1680277149366
+C:\Users\annav\.m2\repository\com\google\protobuf\protobuf-java\3.19.4\protobuf-java-3.19.4.jar = 1680277149166
+C:\Users\annav\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.9.0\junit-jupiter-api-5.9.0.jar = 1677846263075
+C:\Users\annav\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar = 1677846262981
+C:\Users\annav\.m2\repository\org\junit\platform\junit-platform-commons\1.9.0\junit-platform-commons-1.9.0.jar = 1677846263054
+C:\Users\annav\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar = 1677846262976
+C:\TECH\lab2\JDBC\src\main\java = 1681396815355
+C:\TECH\lab2\JDBC\target\apidocs\allclasses-index.html = 1685123093581
+C:\TECH\lab2\JDBC\target\apidocs\allpackages-index.html = 1685123093582
+C:\TECH\lab2\JDBC\target\apidocs\copy.svg = 1685123093607
+C:\TECH\lab2\JDBC\target\apidocs\element-list = 1685123093504
+C:\TECH\lab2\JDBC\target\apidocs\help-doc.html = 1685123093602
+C:\TECH\lab2\JDBC\target\apidocs\index-all.html = 1685123093595
+C:\TECH\lab2\JDBC\target\apidocs\index.html = 1685123093569
+C:\TECH\lab2\JDBC\target\apidocs\jquery-ui.overrides.css = 1685123093615
+C:\TECH\lab2\JDBC\target\apidocs\member-search-index.js = 1685123093585
+C:\TECH\lab2\JDBC\target\apidocs\module-search-index.js = 1685123093583
+C:\TECH\lab2\JDBC\target\apidocs\overview-summary.html = 1685123093598
+C:\TECH\lab2\JDBC\target\apidocs\overview-tree.html = 1685123093567
+C:\TECH\lab2\JDBC\target\apidocs\package-search-index.js = 1685123093584
+C:\TECH\lab2\JDBC\target\apidocs\script.js = 1685123093607
+C:\TECH\lab2\JDBC\target\apidocs\search-page.js = 1685123093610
+C:\TECH\lab2\JDBC\target\apidocs\search.html = 1685123093597
+C:\TECH\lab2\JDBC\target\apidocs\search.js = 1685123093609
+C:\TECH\lab2\JDBC\target\apidocs\stylesheet.css = 1685123093604
+C:\TECH\lab2\JDBC\target\apidocs\tag-search-index.js = 1685123093586
+C:\TECH\lab2\JDBC\target\apidocs\type-search-index.js = 1685123093585

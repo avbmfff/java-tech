@@ -1,0 +1,16 @@
+buisnesslogic\rest\CarBrandServiceFactory.class
+messaging\interfaces\EventSender.class
+buisnesslogic\interfaces\QueueService.class
+buisnesslogic\models\IdInfo.class
+buisnesslogic\rest\models\CreateCarBrandRequest.class
+messaging\rabbitmq\RabbitMqListener.class
+buisnesslogic\Repository\QueueServiceImpl.class
+buisnesslogic\rest\api\CarBrandsResources.class
+messaging\interfaces\EventReceiver.class
+buisnesslogic\rest\api\CarBrandResource.class
+messaging\rabbitmq\RabbitMqSender.class
+buisnesslogic\interfaces\CarBrandService.class
+buisnesslogic\Repository\CarBrandRepository.class
+buisnesslogic\rest\models\ErrorModel.class
+messaging\models\Event.class
+buisnesslogic\models\CarBrand.class

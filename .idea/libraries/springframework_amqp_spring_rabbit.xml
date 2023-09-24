@@ -1,0 +1,56 @@
+<component name="libraryTable">
+  <library name="springframework.amqp.spring.rabbit" type="repository">
+    <properties maven-id="org.springframework.amqp:spring-rabbit:3.0.4" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/spring-rabbit-3.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-amqp-3.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-core-6.0.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-jcl-6.0.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-retry-2.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/amqp-client-5.16.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.7.36.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-context-6.0.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-aop-6.0.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-beans-6.0.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-expression-6.0.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-messaging-6.0.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-tx-6.0.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/micrometer-observation-1.10.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/micrometer-commons-1.10.6.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/lib/spring-rabbit-3.0.4-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-amqp-3.0.4-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-core-6.0.8-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-jcl-6.0.8-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-retry-2.0.1-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/amqp-client-5.16.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.7.36-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-context-6.0.8-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-aop-6.0.8-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-beans-6.0.8-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-expression-6.0.8-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-messaging-6.0.8-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-tx-6.0.8-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/micrometer-observation-1.10.6-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/micrometer-commons-1.10.6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/spring-rabbit-3.0.4-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-amqp-3.0.4-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-core-6.0.8-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-jcl-6.0.8-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-retry-2.0.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/amqp-client-5.16.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.7.36-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-context-6.0.8-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-aop-6.0.8-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-beans-6.0.8-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-expression-6.0.8-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-messaging-6.0.8-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-tx-6.0.8-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/micrometer-observation-1.10.6-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/micrometer-commons-1.10.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

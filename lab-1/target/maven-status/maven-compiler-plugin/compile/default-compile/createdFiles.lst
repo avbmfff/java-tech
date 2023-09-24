@@ -1,0 +1,15 @@
+BankLab\Exceptions\BankException.class
+BankLab\Bank\CentralBank.class
+BankLab\Clients\Client.class
+BankLab\Observers\Observer.class
+BankLab\Bank\Bank.class
+BankLab\Accounts\DebitAccount.class
+BankLab\Accounts\DepositAccount.class
+Test\TestProgram.class
+BankLab\Clients\Passport.class
+BankLab\Observers\ClientInfo.class
+BankLab\Observers\BankInfo.class
+BankLab\Observers\Observable.class
+BankLab\Accounts\CreditAccount.class
+BankLab\Clients\ClientBuilder.class
+BankLab\Accounts\Account.class

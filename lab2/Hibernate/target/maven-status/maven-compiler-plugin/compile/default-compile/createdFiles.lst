@@ -1,0 +1,9 @@
+DAO\CarBrandDAO.class
+DAO\CarModelHibernate.class
+Entities\CarModel.class
+DAO\CarBrandHibernate.class
+Entities\CarBrand.class
+DAO\CarModelDAO.class
+Hibernate\HibernateUtil.class
+Entities\BodyType.class
+Test\TestProgramHibernate.class

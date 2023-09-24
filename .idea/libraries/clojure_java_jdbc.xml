@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="clojure.java.jdbc" type="repository">
+    <properties maven-id="org.clojure:java.jdbc:0.7.12" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/clojure/java.jdbc/0.7.12/java.jdbc-0.7.12.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/clojure/clojure/1.7.0/clojure-1.7.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/clojure/java.jdbc/0.7.12/java.jdbc-0.7.12-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/clojure/clojure/1.7.0/clojure-1.7.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
